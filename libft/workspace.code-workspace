@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../libft-unit-test"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"algorithm": "c",
+			"bitset": "c",
+			"functional": "c",
+			"iterator": "c",
+			"memory": "c",
+			"sstream": "c"
+		}
+	}
+}
